@@ -9,3 +9,7 @@ Comportamentos esperados:
 - Reprodutor Musical: tocar, pausar, selecionarMusica
 - Aparelho Telefônico: ligar, atender, iniciarCorrereioVoz
 - Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
+
+## Diagrama UML do projeto
+![UML-DIO](https://github.com/ArthurFelipe12/DIO-IPHONE/assets/110441857/759fb85c-bcb3-4102-8a0a-f5282ef17137)
+
